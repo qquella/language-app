@@ -1,9 +1,7 @@
 # language-app
 A React.js app for language learning
 
+https://github.com/user-attachments/assets/575acfe1-68c2-4c83-9973-9b7a6e2771a3
 
-https://github.com/user-attachments/assets/6ff320a9-9b6a-426e-a774-639b2a26fb85
-
-
-https://github.com/user-attachments/assets/091e1bd5-8ccf-49bd-b65d-a80933cbbd24
+https://github.com/user-attachments/assets/4e93622a-8570-43a5-9324-66339167ce42
 
