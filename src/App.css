@@ -1,0 +1,32 @@
+.App {
+  max-width: 860px;
+  margin: 40px auto;
+  margin: 1.7% auto;
+}
+.game-title {
+  text-shadow: 4px 3px rgba(245, 182, 236, 0.949);
+  font-size: 2.3em;
+}
+button {
+  background: none;
+  border: 2px solid #fff;
+  padding: 6px 12px;
+  border-radius: 4px;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: .8em;
+}
+button:hover {
+  background: #c23866;
+  color: #fff;
+}
+.card-grid {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+.card-grid img {
+  max-width: 96%;
+}
